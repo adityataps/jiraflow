@@ -1,0 +1,2 @@
+# jiraflow
+Jira + Alfred integration
